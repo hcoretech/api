@@ -1,3 +1,3 @@
 module App
-require github.com/hcoretech/goApp/blob/main/Api/api  v0.1.0
+require  github.comretech/api  v1.24.1
 go 1.24.1

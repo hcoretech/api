@@ -6,5 +6,6 @@ import (
 
 func main() {
 	fmt.Println("this is starting")
+	api.process()
 
 }
